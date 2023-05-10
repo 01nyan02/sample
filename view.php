@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-    // 2022年
+    // 2022年6月15日
     require("file:///C:/xampp/htdocs/2022.06.15/data.php");
 
     // テーブルの作成
