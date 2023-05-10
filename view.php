@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-
+    // 2022年
     require("file:///C:/xampp/htdocs/2022.06.15/data.php");
 
     echo "<table border=1>";
