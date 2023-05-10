@@ -11,6 +11,7 @@
     // 2022年
     require("file:///C:/xampp/htdocs/2022.06.15/data.php");
 
+    // テーブルの作成
     echo "<table border=1>";
     echo "<tr>";
     echo "<td></td>";
